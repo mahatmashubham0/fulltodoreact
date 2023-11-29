@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../testing"
+		},
+		{
+			"path": "../../../nodejs_todoapp-master"
+		},
+		{
+			"path": "../../../nodeapi"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "react_todo_app-master"
+	}
+}
